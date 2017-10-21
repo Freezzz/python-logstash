@@ -1,13 +1,13 @@
 from distutils.core import setup
 setup(
-    name='python-logstash',
+    name='python-logstash-ssl',
     packages=['logstash'],
-    version='0.4.6',
+    version='0.4.7',
     description='Python logging handler for Logstash.',
     long_description=open('README.rst').read(),
     author='Volodymyr Klochan',
     author_email='vklochan@gmail.com',
-    url='https://github.com/vklochan/python-logstash',
+    url='https://github.com/Freezzz/python-logstash',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
